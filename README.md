@@ -6,6 +6,7 @@ Finally, An Alternative to VRoid Studio.
 Current Version: 1.1
 Version Release Date: 6/21/2023
 
+<img src="7c3dca84-7f34-42b9-a8fc-ca765eed72d7_base_resized.jpg" alt="FAAVRS Face" width="319.5px" height="422.5px">
 
 Latest Patch's Patch Notes:
 
