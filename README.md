@@ -1,4 +1,4 @@
-# SK_faavrs_bread_bread
+# SK_faavrs_breadbread
 
 Thank you for downloading FAAVRS:
 Finally, An Alternative to VRoid Studio.
